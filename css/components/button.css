@@ -1,0 +1,10 @@
+.btn-red {
+	padding: 15px;
+	background-color: red;
+	color: white;
+	text-decoration: none;
+	border-radius: 4px;
+	box-shadow: 5px 10px 5px rgba(0,0,0,0.1);
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
